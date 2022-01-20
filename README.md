@@ -1,5 +1,5 @@
 # python2assignment1
-{% if False %}
+
 
 # Introduction
 
